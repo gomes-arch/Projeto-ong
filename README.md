@@ -30,5 +30,6 @@ Página de Contato com informações de e-mail, WhatsApp e localização
 O site será publicado usando um serviço de hospedagem (ex: Vercel, GitHub Pages ou Replit Web).
 
 👩‍💻 Desenvolvido por
-Geovana Gomes
+Geovana Lilian Gomes da Silva 
+RA: 2224108323
 geovana.gs@uni9.edu.br
